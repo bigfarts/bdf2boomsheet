@@ -1,0 +1,8 @@
+github.com/murkland/go-bdf v0.0.0-20220307182234-b93f9274b16f h1:BdEQiwYiUpdHdXXLn8pPSnbWPtu4soFoHZOyf6tz72E=
+github.com/murkland/go-bdf v0.0.0-20220307182234-b93f9274b16f/go.mod h1:FWqHpmEj39kZYjkb4y+GkFRwJofD3lP2k8ataoNlo2Y=
+golang.org/x/exp v0.0.0-20220307200941-a1099baf94bf h1:IoCgLaQjznvljAcEatPiHdqZi9oIBU5w0AJrlRkzX7s=
+golang.org/x/exp v0.0.0-20220307200941-a1099baf94bf/go.mod h1:lgLbSvA5ygNOMpwM/9anMpWVlVJ7Z+cHWq/eFuinpGE=
+golang.org/x/image v0.0.0-20210504121937-7319ad40d33e h1:PzJMNfFQx+QO9hrC1GwZ4BoPGeNGhfeQEgcQFArEjPk=
+golang.org/x/image v0.0.0-20210504121937-7319ad40d33e/go.mod h1:FeLwcggjj3mMvU+oOTbSwawSJRM1uh48EjtB4UJZlP0=
+golang.org/x/text v0.3.0 h1:g61tztE5qeGQ89tm6NTjjM9VPIm088od1l6aSorWRWg=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
